@@ -1,8 +1,8 @@
 def secret_things (started)
-    kit_beans = started * 100
-    jars = kit_beans * 1000
-    crates = jars/100
-    return kit_beans, jars, crates
+  kit_beans = started * 100
+  jars = kit_beans * 1000
+  crates = jars/100
+  return kit_beans, jars, crates
 end
 
 point = 10000
