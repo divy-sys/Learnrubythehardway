@@ -15,5 +15,3 @@ elements = []
 end
 
 # elements.each {|j| puts "Element was: #{j}" }
-
-

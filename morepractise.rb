@@ -10,3 +10,11 @@ beans, jars, crates = secret_things(point)
 
 puts "With a starting point of #{point}"
 puts "we have #{beans}, #{jars}jars and #{crates}crates"
+
+def divy()
+  one = "Namaste"
+  two = "IT"
+  three = "World"
+  puts one + two + three
+end
+divy
