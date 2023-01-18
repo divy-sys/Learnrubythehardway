@@ -39,8 +39,8 @@ p zip.product(letters)
 numbers = [1,2,3,"",4,nil, 3.5]
 result = numbers.compact.map(&:to_f).sum
 puts "the result is #{result}"
-the result is 13.5
-=> nil
+
+
 
 
 
