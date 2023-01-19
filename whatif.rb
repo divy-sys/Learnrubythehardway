@@ -15,5 +15,3 @@ end
 if nirmal > divy && rutvik
   puts "Nirmal is greater than divy and rutvik"
 end
-
-

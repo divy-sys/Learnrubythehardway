@@ -11,9 +11,6 @@ obj1.divy #Called the function inside the class
 
 DivyVaria.class_method #To call the self of class method
 
-
-
-
 class Student
   def initialize(name, email, contact)
     @name = name

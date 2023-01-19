@@ -1,7 +1,7 @@
 stock = {
-    "name" => "Divy",
-    "Age" => 9 * 2,
-    "location" => "Ahemdabad"
+  "name" => "Divy",
+  "Age" => 9 * 2,
+  "location" => "Ahemdabad"
 }
 puts stock
 

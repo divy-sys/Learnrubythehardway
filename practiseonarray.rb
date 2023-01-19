@@ -1,9 +1,10 @@
-one = "i am learing the ruby by hard way"
+one = "i am learing the ruby by hard way aa a a a a a a"
 two = one.split('')
 
 three = ["Day", "Night", "Light", "Sight", "Might", "Tight", "Girl", "Boy"]
 
-while two.length != 10
+while two.length < 10
+
   four = three.pop
   puts "Adding #{four}"
   three.push(four)
@@ -11,7 +12,6 @@ while two.length != 10
 end
 
 puts "There we go fo #{two}"
-
 puts two[1]
 puts two[-1]
 puts two.pop()

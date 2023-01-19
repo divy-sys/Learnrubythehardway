@@ -27,4 +27,3 @@ puts b.name
 puts b.age
 
 puts "#{b}"
-

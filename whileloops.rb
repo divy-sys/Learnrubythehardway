@@ -16,4 +16,3 @@ until var == 10 do
   puts var * 10
   var = var + 1
 end
-
